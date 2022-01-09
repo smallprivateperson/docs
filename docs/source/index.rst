@@ -18,5 +18,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Автомобильное
+   Рабочее
+   Домашнее
